@@ -1,0 +1,12 @@
+#list-container {
+    margin-top: 40px;
+}
+
+.list-item {
+    display: flex;
+    justify-content: space-around;
+}
+
+.list-item-delete {
+    cursor: pointer;
+}
